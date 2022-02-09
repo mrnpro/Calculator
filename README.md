@@ -1,3 +1,3 @@
 # Calculator
 
-![MODEL!](mode.png)
+![MODEL](mode.png)
