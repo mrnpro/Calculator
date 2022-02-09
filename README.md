@@ -1,3 +1,3 @@
 # Calculator
 
-![MODEL](mode.png)
+![MODEL](https://github.com/mrnpro/Calculator/blob/main/model.png)
